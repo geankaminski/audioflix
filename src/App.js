@@ -13,7 +13,7 @@ function App() {
       <BannerMain
       	videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       	url={dadosIniciais.categorias[0].videos[0].url}
-      	videoDescription={"O que é Front-end? Conheça nesse vídeo"}
+      	videoDescription={"Saiba o que é masterização e como faze-la com o professor Cesar Santos. Esse vídeo faz parte do módulo Masterização."}
       />
 
       <Carousel
@@ -35,6 +35,10 @@ function App() {
 
        <Carousel
       	category={dadosIniciais.categorias[4]}
+      />
+
+       <Carousel
+      	category={dadosIniciais.categorias[5]}
       />
 
       <Footer />

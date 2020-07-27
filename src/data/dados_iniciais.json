@@ -1,54 +1,38 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Produção Musical",
+      "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Conteúdo sobre Produção Musical",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Que é Masterização?",
+          "url": "https://youtu.be/PbIy3HejBoo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Dicas de Engenharia de Áudio",
+          "url": "https://youtu.be/fARtjL5Psjs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Compressão - 30 dicas de mixagem #6",
+          "url": "https://youtu.be/uUqPP--hbcs"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "O que o produtor musical precisa saber?",
+          "url": "https://youtu.be/RW7dxeMC2xs"
+        }  
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Engenharia de Áudio",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Contéudo sobre Engenharia de Áudio",
+        "url": "/"
       },
       "videos": [
         {
@@ -74,11 +58,11 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Mixagem",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Conteúdo sobre Mixagem",
+        "url": "/"
       },
       "videos": [
         {
@@ -100,8 +84,12 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Gravação",
       "cor": "orange",
+      "link_extra": {
+        "text": "Conteúdo sobre Gravação",
+        "url": "/"
+      },
       "videos": [
         {
           "titulo": "Interestellar",
@@ -122,11 +110,11 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Masterização",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Conteúdo sobre Masterização",
+        "url": "/"
       },
       "videos": [
         {
@@ -152,11 +140,11 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Pré-Produção",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Conteúdo sobre Pré-Produção",
+        "url": "/"
       },
       "videos": [
         {
