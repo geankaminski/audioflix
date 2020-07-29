@@ -1,16 +1,18 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const canvas = styled.canvas`
-	border: 1px solid #000;
-    display: block;
-    margin: 0 auto;
-`;
 
 function Game(){
   return(
     <div>
-    	<canvas id="game-canvas" width="320" height="480"></canvas>
+    	<iframe
+              title="AngryBirds"
+              src="https://mariosouto.com/flappy-bird-devsoutinho/"
+              width="340px"
+              height="600px"
+              scrolling="no"
+              border="0"
+            ></iframe>  
     </div>
     );
 }
