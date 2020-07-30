@@ -1,10 +1,24 @@
 import React from 'react';
 import styled from 'styled-components';
 
+const Page404 = styled.div`
+  background: var(--black);
+  min-height: 100vh;
+  display: flex;
+  flex: column;
+  align-items: center;
+  justify-content: center;
+  & > iframe {
+    overflow: hidden;
+    border: none;
+    margin-top: -40px;
+`;
+
+
 
 function Game(){
   return(
-    <div>
+    <Page404>
     	<iframe
               title="AngryBirds"
               src="https://mariosouto.com/flappy-bird-devsoutinho/"
@@ -13,7 +27,7 @@ function Game(){
               scrolling="no"
               border="0"
             ></iframe>  
-    </div>
+    </Page404>
     );
 }
 
