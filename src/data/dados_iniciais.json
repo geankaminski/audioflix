@@ -5,7 +5,7 @@
       "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Conteúdo sobre Produção Musical",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -43,7 +43,7 @@
       "titulo": "Engenharia de Áudio",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Contéudo sobre Engenharia de Áudio",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -70,10 +70,10 @@
       ]
     },
     {
-      "titulo": "Mixagem",
+      "titulo": "Gravação",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Conteúdo sobre Mixagem",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -96,10 +96,10 @@
       ]
     },
     {
-      "titulo": "Gravação",
+      "titulo": "Mixagem",
       "cor": "orange",
       "link_extra": {
-        "text": "Conteúdo sobre Gravação",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -125,7 +125,7 @@
       "titulo": "Masterização",
       "cor": "red",
       "link_extra": {
-        "text": "Conteúdo sobre Masterização",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -155,7 +155,7 @@
       "titulo": "Pré-Produção",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Conteúdo sobre Pré-Produção",
+        "text": "",
         "url": "/"
       },
       "videos": [
