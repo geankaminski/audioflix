@@ -47,6 +47,10 @@
         "url": "/"
       },
       "videos": [
+         {
+          "titulo": "UA Entrevista Carlos Freitas - Engenheiro de áudio | Universidade do Áudio",
+          "url": "https://youtu.be/F9PMvp3ZXqo"
+        },
         {
           "titulo": "Beto Neves - Podcast Eu Vivo de Música #1",
           "url": "https://youtu.be/__xEVlgdD7w"
@@ -64,12 +68,8 @@
           "url": "https://youtu.be/rH_nXU9JVAY"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        },
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Profissão : Engenheiro de Áudio (Parte 3) | Universidade do Áudio",
+          "url": "https://youtu.be/BiRESJD1lEw"
         }
       ]
     },
@@ -82,28 +82,28 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Gravação de voz - 30 Dicas de gravação em 30 dias #21 (2019)",
+          "url": "https://youtu.be/PHt21fQPRXs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Profissão: Engenheiro de Gravação (Parte 5) | Universidade do Áudio",
+          "url": "https://youtu.be/XPMcwPFCrh4"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Microfonação do Saxofone - Gravando Live Session | Universidade do Áudio",
+          "url": "https://youtu.be/rW4VEsUL_l4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Gravação e edição de violão e voz na prática (2018)",
+          "url": "https://youtu.be/lA0U01ognWo"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Em Qual Volume Gravar",
+          "url": "https://youtu.be/XAKxnS-fagE"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Drum Recording & Miking Techniques - Warren Huart: Produce Like A Pro",
+          "url": "https://youtu.be/cFXqcEtyWkA"
         }
       ]
     },
@@ -116,28 +116,28 @@
       },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Mixando Violões | "Deixa", do Lagum (Pedro Peixoto - Universidade do Áudio)",
+          "url": "https://youtu.be/VJUttkWguUU"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O Que é Mixbus? (Mentor Pedro Peixoto) | Templates e Workflow - Universidade do Áudio",
+          "url": "https://youtu.be/tYXDT31W6CQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Equalização - 30 dicas de mixagem #5 (2020)",
+          "url": "https://youtu.be/TAwE-jtevDo"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Automação - 30 dicas de mixagem #9 (2020)",
+          "url": "https://youtu.be/aG_3CboDO9U"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "MIXANDO O VOCAL DA ANITTA (Abrindo o PROJETO com TODOS OS PLUGINS)",
+          "url": "https://youtu.be/N9tdhnSibp0"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Mixing Basics: Drums - Warren Huart: Produce Like A Pro",
+          "url": "https://youtu.be/x3a4_spQCkc"
         }
       ]
     },
@@ -150,28 +150,28 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "MASTERIZAÇÃO - O QUE É? DEVO FAZER?",
+          "url": "https://youtu.be/yQQNkb5xlvk"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Masterização para Plataformas Digitais | Masterização | Universidade do Áudio",
+          "url": "https://youtu.be/m2CLrOT2qnA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Graves X Agudos na Masterização | Pedro Peixoto - Universidade do Áudio",
+          "url": "https://youtu.be/t3r55iILGw4"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Não se preocupe em aprender a masterizar - Imagens com Frases #1 (2019)",
+          "url": "https://youtu.be/dd8aufDC1l4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Are You Listening? Ep. 1 | Audio Mastering Basics",
+          "url": "https://youtu.be/E-6Lnp8RB00"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Are You Listening? Ep. 2 | Your Listening Environment",
+          "url": "https://youtu.be/A1LcjVdMMTA"
         }
       ]
     },
