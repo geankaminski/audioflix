@@ -1,5 +1,6 @@
 # Audioflix⠀
-## Plataforma de conteúdos sobre engenharia de áudio e produção musical, desenvolvida com React
+## Plataforma de conteúdos sobre engenharia de áudio 
+## Desenvolvida com React
 
 ### [Projeto deployado](https://audioflix.vercel.app/)
 
@@ -9,5 +10,7 @@ Após clonar o projeto rode os seguintes comandos:
 * npm install
 * npm start
 
-- Contato: [Gean Kaminski](https://www.linkedin.com/in/gean-kaminski-2a9930b0/)
+### Contato: 
+
+* [Gean Kaminski](https://www.linkedin.com/in/gean-kaminski-2a9930b0/)
 
