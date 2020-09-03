@@ -1,6 +1,5 @@
 # Audioflix⠀
-## Plataforma de conteúdos sobre engenharia de áudio 
-## Desenvolvida com React
+## Plataforma de conteúdos sobre engenharia de áudio, desenvolvida com React
 
 ### [Projeto deployado](https://audioflix.vercel.app/)
 
